@@ -2,5 +2,4 @@ title: Yakubu-Moshood
 logo:
 show_download: True
 remote_theme: jekyll-theme-minimal.
-plugins:
--Jekyll-remote-theme
+plugins: Jekyll-remote-theme
