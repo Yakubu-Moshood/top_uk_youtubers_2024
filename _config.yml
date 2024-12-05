@@ -1,5 +1,6 @@
-title: Yakubu-Moshood
-logo:
-show_download: True
-remote_theme: jekyll-theme-minimal.
-plugins: Jekyll-remote-theme
+title: "Yakubu-Moshood"
+logo: null # Add a path to your logo file if available
+show_download: true
+remote_theme: "jekyll-theme-minimal"
+plugins:
+  - jekyll-remote-theme
