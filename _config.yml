@@ -1,5 +1,6 @@
 title: "Yakubu-Moshood"
 logo: assets/images/github photo.jpg
+show_downloads: True
 remote_theme: "jekyll-theme-minimal"
 plugins:
   - jekyll-remote-theme
